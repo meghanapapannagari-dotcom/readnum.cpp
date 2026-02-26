@@ -1,0 +1,2 @@
+# readnum.cpp
+ using c++
